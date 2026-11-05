@@ -1,7 +1,7 @@
 {
-  "version": "1.3.4",
-  "notes": "修复：皮肤资源库预览不再覆盖“我的皮肤”导致用过的皮肤看起来又变回去；皮肤库卡片改为头像；皮肤库补齐 LittleSkin 共 63 条。",
+  "version": "1.3.5",
+  "notes": "修复自动更新：更新源填 github.com/owner/repo 这类写法会自动纠正成可下载的 raw 地址；沿用 1.3.4 的皮肤库修复。",
   "url": "https://raw.githubusercontent.com/LYX20130331/XCL2/main/app.asar",
-  "sha256": "9451ee873934c44e81322cebf045b89dc072c52b710474db5b8f803d887187a5",
-  "size": 771668
+  "sha256": "0a8d0b185943bd08bd34970810f422e35feae25686a19194591c1298306eac4b",
+  "size": 773024
 }
