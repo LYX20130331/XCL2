@@ -1,7 +1,7 @@
 {
-  "version": "1.3.5",
-  "notes": "修复自动更新：更新源填 github.com/owner/repo 这类写法会自动纠正成可下载的 raw 地址；沿用 1.3.4 的皮肤库修复。",
+  "version": "1.3.6",
+  "notes": "新增：版本隔离与按版本的模组管理（启用/停用/删除/一键更新）；拖拽文件自动导入；一键导出整合包；修复 Win7/旧系统兼容与游戏内皮肤不显示。",
   "url": "https://raw.githubusercontent.com/LYX20130331/XCL2/main/app.asar",
-  "sha256": "0a8d0b185943bd08bd34970810f422e35feae25686a19194591c1298306eac4b",
-  "size": 773024
+  "sha256": "d95e7b3652fea1f21938cb8c6b289b3f3c326ca60371205a6839534e4cb09ba2",
+  "size": 795926
 }
