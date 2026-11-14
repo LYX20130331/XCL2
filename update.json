@@ -1,7 +1,1 @@
-{
-  "version": "1.3.6",
-  "notes": "新增：版本隔离与按版本的模组管理（启用/停用/删除/一键更新）；拖拽文件自动导入；一键导出整合包；修复 Win7/旧系统兼容与游戏内皮肤不显示。",
-  "url": "https://raw.githubusercontent.com/LYX20130331/XCL2/main/app.asar",
-  "sha256": "d95e7b3652fea1f21938cb8c6b289b3f3c326ca60371205a6839534e4cb09ba2",
-  "size": 795926
-}
+{"version":"2.0.0","notes":"2.0.0：版本设置重做为 PCL 风格九页（概览/设置/修改/导出/存档/截图/Mod/资源包/光影包），导出整合包支持逐项勾选与字体选择，资源下载页与模组页显示模组图标，主页改为简洁启动页，移除启动器版本切换。","url":"https://raw.githubusercontent.com/LYX20130331/XCL2/main/app.asar","sha256":"0da38c2817c4e044d003e74fbbbcb7e628f17e761d29f7647f2698d1f479cf2c","size":831944}
